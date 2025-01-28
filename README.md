@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yupitsadi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yupitsadi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yupitsadi&layout=compact&theme=radical&hide=c&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
@@ -33,7 +33,7 @@ Here are some of the projects I'm currently working on:
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,solidity" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,react,vue,nextjs,nodejs,python,solidity" alt="Languages & Frameworks" />
 </p>
 
 ### Database & Tools
