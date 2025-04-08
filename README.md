@@ -47,7 +47,7 @@ Here are some of the projects I'm currently working on:
 
 - 🎯 Built a **blockchain-based voting system** from scratch.
 - 📈 Optimized **scalable applications** for better performance and efficiency.
-- 🌟 **500+ GitHub contributions** in 2024.
+- 🌟 **100+ GitHub contributions** in 2024.
 - 🔗 **Active contributor** to open-source projects.
 
 ---
@@ -72,7 +72,7 @@ I'm always open to collaborating on exciting projects or discussing ideas. Feel 
 </p>
 
 - 📧 **Email:** [adityaraj99.a@gmail.com](mailto:adityaraj99.a@gmail.com)
-- 📄 **Résumé:** [View My Résumé](https://drive.google.com/file/d/1squgkOo6fFSfMF3Ajxlq9pXYwDOTWMQ2/view)
+- 📄 **Résumé:** [View My Resume](https://drive.google.com/file/d/1e3XwCSAFtUGypxECW_2rNAwDuWQr_BLJ/view?usp=sharing)
 
 ---
 
