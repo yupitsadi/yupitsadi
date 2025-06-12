@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typed-svg.vercel.app/api?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=Hi+there%2C+I'm+Aditya!+%F0%9F%91%8B;%F0%9F%9A%80+Software+Development+Engineer;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8C%90+Building+Innovative+Solutions" alt="Typing SVG" />
+ 
 </div>
 
 <div align="center">
@@ -93,7 +93,7 @@ I'm always open to collaborating on exciting projects or discussing ideas. Feel 
 </p>
 
 -   📧 **Email:** [Maditya99.a@gmail.com](mailto:Maditya99.a@gmail.com) [cite: 1]
--   📄 **Résumé:** [View My Resume](https://drive.google.com/file/d/1e3XwCSAFtUGypxECW_2rNAwDuWQr_BLJ/view?usp=sharing) *(Please update this link to your new resume PDF)*
+-   📄 **Résumé:** [View My Resume](https://drive.google.com/file/d/1e3XwCSAFtUGypxECW_2rNAwDuWQr_BLJ/view?usp=sharing) 
 
 ---
 
