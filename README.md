@@ -14,7 +14,7 @@
 I'm Aditya, a passionate **Software Development Engineer** with expertise in building scalable full-stack web applications. I enjoy creating innovative solutions to real-world problems and continuously exploring new technologies. My experience spans across developing efficient backend systems with Node.js and TypeScript[cite: 8], crafting dynamic frontends using Next.js and React[cite: 3, 15], and deploying resilient applications on AWS EC2 with Docker and CI/CD pipelines.
 
 - 🔭 **Currently focusing on:** Developing robust web applications and microservices[cite: 8], and optimizing application performance and deployment efficiency.
-- 🌱 **Learning:** Advanced concepts in system design, deepening my knowledge of DevOps practices, and AI-driven application development[cite: 21].
+- 🌱 **Learning:** Advanced concepts in system design, deepening my knowledge of DevOps practices, and AI-driven application development.
 - 💡 **Passionate about:** Building performant and user-centric applications, solving complex technical challenges, and contributing to impactful projects.
 - 🎯 **Goal:** To leverage my skills in software development to contribute to cutting-edge projects and drive technological advancements.
 
@@ -24,8 +24,8 @@ I'm Aditya, a passionate **Software Development Engineer** with expertise in bui
 
 Here are some of the projects I've worked on:
 
--   **[AI-Powered Expense Tracker](https://github.com/yupitsadi/Al-Powered-Expense-Tracker)**: Developed a full-stack web application to streamline personal finance management. Leveraged Node.js and Express for RESTful APIs, MongoDB for data storage, and a Scikit-learn model (85% accuracy) for expense categorization[cite: 21]. Designed a responsive Next.js frontend with Chart.js visualizations and containerized the app with Docker for deployment on AWS EC2 using GitHub Actions CI/CD pipelines, reducing deployment time by 30%[cite: 21].
--   **[CRYPTO BAZAAR](https://github.com/yupitsadi/CRYPTO-BAZAAR)**: Developed a Cryptocurrency Tracker App using React JS, Material UI, and Chart JS[cite: 22]. Integrated a live API with Gecko API using Axios and used Context API for state management[cite: 22]. Features include automatic data updates, responsive UI, price rate graphs, and a carousel for top cryptocurrencies[cite: 22]. Deployed on Netlify[cite: 22].
+-   **[AI-Powered Expense Tracker](https://github.com/yupitsadi/Al-Powered-Expense-Tracker)**: Developed a full-stack web application to streamline personal finance management. Leveraged Node.js and Express for RESTful APIs, MongoDB for data storage, and a Scikit-learn model (85% accuracy) for expense categorization. Designed a responsive Next.js frontend with Chart.js visualizations and containerized the app with Docker for deployment on AWS EC2 using GitHub Actions CI/CD pipelines, reducing deployment time by 30%.
+-   **[CRYPTO BAZAAR](https://github.com/yupitsadi/CRYPTO-BAZAAR)**: Developed a Cryptocurrency Tracker App using React JS, Material UI, and Chart JS[cite: 22]. Integrated a live API with Gecko API using Axios and used Context API for state management[cite: 22]. Features include automatic data updates, responsive UI, price rate graphs, and a carousel for top cryptocurrencies[cite: 22]. Deployed on Netlify.
 -   **CRM System for Workshop Management**: As part of my role at Genius Labs, I designed and implemented a CRM system using Next.js, Node.js, Express, MongoDB, and Docker[cite: 5].
 
 ---
