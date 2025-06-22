@@ -11,9 +11,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm Aditya, a passionate **Software Development Engineer** with expertise in building scalable full-stack web applications. I enjoy creating innovative solutions to real-world problems and continuously exploring new technologies. My experience spans across developing efficient backend systems with Node.js and TypeScript[cite: 8], crafting dynamic frontends using Next.js and React[cite: 3, 15], and deploying resilient applications on AWS EC2 with Docker and CI/CD pipelines[cite: 5, 6, 10].
+I'm Aditya, a passionate **Software Development Engineer** with expertise in building scalable full-stack web applications. I enjoy creating innovative solutions to real-world problems and continuously exploring new technologies. My experience spans across developing efficient backend systems with Node.js and TypeScript[cite: 8], crafting dynamic frontends using Next.js and React[cite: 3, 15], and deploying resilient applications on AWS EC2 with Docker and CI/CD pipelines.
 
-- 🔭 **Currently focusing on:** Developing robust web applications and microservices[cite: 8], and optimizing application performance and deployment efficiency[cite: 3, 10].
+- 🔭 **Currently focusing on:** Developing robust web applications and microservices[cite: 8], and optimizing application performance and deployment efficiency.
 - 🌱 **Learning:** Advanced concepts in system design, deepening my knowledge of DevOps practices, and AI-driven application development[cite: 21].
 - 💡 **Passionate about:** Building performant and user-centric applications, solving complex technical challenges, and contributing to impactful projects.
 - 🎯 **Goal:** To leverage my skills in software development to contribute to cutting-edge projects and drive technological advancements.
