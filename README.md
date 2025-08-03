@@ -47,7 +47,7 @@ I'm a passionate **Software Development Engineer** at Genius Labs with **2+ year
 name: Aditya
 role: Software Development Engineer
 company: Genius Labs
-experience: 2+ years
+experience: 1+ years
 location: Noida, India
 focus: Full-Stack Development & Microservices
 
@@ -57,6 +57,7 @@ current_work:
   - Payment integration solutions
 
 learning:
+  - Spring Boot Microservices 
   - Advanced system design
   - AI-powered application development
   - DevOps best practices
