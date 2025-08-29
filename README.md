@@ -7,16 +7,16 @@
 </div>
 
 <div align="center">
-  <a href="mailto:aditya99.a@gmail.com">
+  <a href="mailto:adityaraj99.a@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yupitsadi" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-prasad-/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://github.com/yupitsadi" target="_blank">
     <img src="https://img.shields.io/badge/🐱_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
   </a>
-  <a href="https://drive.google.com/file/d/151o6AFDEO5RMkx8CEgJPZysE2Lroy3uP/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1vIWHWEnD8ZKekZ7GT2OxpLp2Vbx6g9IU/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=FF5722" alt="Resume" />
   </a>
   <a href="tel:+919426052435">
